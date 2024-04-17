@@ -1,5 +1,8 @@
 # Eyes-Controlled-Mouse-Cursor
 
+
+Software : PYcharm
+
 Introduction :
 
 This project uses an eye tracker to measure eye movements and positions, allowing users to interact with computers using their eyes. The device requires a computer or laptop with a built-in webcam, and an eye control mouse cursor. This solution is designed for physically disabled people, allowing them to use modern computers independently. Previous methods have used brain signals, facial muscles signals, and electro-oculograms to assist disabled users. The project uses image processing for background elimination, grayscale background removal, and edge detection to detect the eyes and mouth in the frame.
